@@ -6,3 +6,6 @@ That's pretty much i-
 This was made in Scratch a year ago. This is why it just randomly starts at v1.4 or whatever it was.
 It was compiled using TurboWarp.
 ALSO PLEASE IGNORE GATEKEEPER WARNINGS OR WHATEVER I DONT WANT TO PAY APPLE DDDDDDD:
+# *LE GRANDE CREDITS*
+toby fox and materia music publishing
+Wow! as simple as that
