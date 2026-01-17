@@ -1,4 +1,4 @@
-# HEY-EVERY
+# MORFLE'S BAD PROBLEM
 Welcome to Morfle's Bad Problem!
 You have to avoid the blue and go to the green!
 That's pretty much i-
