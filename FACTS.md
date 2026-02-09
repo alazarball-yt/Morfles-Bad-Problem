@@ -12,7 +12,7 @@ Wow! as simple as that
 1. this has code for a stop sign clicked (for scratch) that says STOP YOU CANT GO and plays BIG SHOT
 2. this was originally made on scratch
 3. this uses simpler code
-4. this is 32-bit i think? try it and if it doesnt work i'll make a 32-bit version
+4. this is an html doc
 5. this is made using the movement blocks and variables (WHICH WERE NOT NEEDED) in scratch
 6. that's it
 7. i make other weird cool things
